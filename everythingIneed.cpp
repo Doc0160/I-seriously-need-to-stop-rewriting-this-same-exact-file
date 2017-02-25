@@ -3,6 +3,8 @@
    $Date: $
    $Revision: $
    $Creator: Tristan Magniez $
+   $Github: Doc0160 $
+   $Notice: (C) Copyright 2017 by Tristan Magniez. All Rights Reserved. $
    ======================================================================== */
 #if !defined(EVERYTHIN_I_NEED_H)
 
@@ -32,10 +34,10 @@ typedef int32_t i32;
 typedef int64_t i64;
 
 //bools
-typedef int8 b8;
-typedef int16 b16;
-typedef int32 b32; //if you don't know use this one
-typedef int64 b64;
+typedef i8 b8;
+typedef i16 b16;
+typedef i32 b32; //if you don't know use this one
+typedef i64 b64;
 
 //uints
 typedef uint8_t u8;
