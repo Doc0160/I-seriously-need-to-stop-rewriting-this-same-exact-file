@@ -55,5 +55,5 @@ typedef double r64;
 #define Assert(x)
 #endif
 
-#define VERYTHIN_I_NEED_H
+#define EVERYTHIN_I_NEED_H
 #endif
