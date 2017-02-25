@@ -3,7 +3,6 @@
    $Date: $
    $Revision: $
    $Creator: Tristan Magniez $
-   $Notice: (C) Copyright 2017 by Megrov, Inc. All Rights Reserved. $
    ======================================================================== */
 #if !defined(EVERYTHIN_I_NEED_H)
 
